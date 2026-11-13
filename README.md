@@ -10,7 +10,7 @@ $$
 **2)**
 
 $$
-\begin{bmatrix} -1 & 3 \\ -6 & -1 \end{bmatrix} - \left( \begin{bmatrix} 4 & 5 \\ 0 & -6 \end{bmatrix} - \begin{bmatrix} -3 & -3 \\ 6 & -4 \end{bmatrix} \right)
+\\begin{bmatrix} -1 & 3 \\ -6 & -1 \\end{bmatrix} - \left( \begin{bmatrix} 4 & 5 \\ 0 & -6 \end{bmatrix} - \begin{bmatrix} -3 & -3 \\ 6 & -4 \end{bmatrix} \right)
 $$
 
 **3)**

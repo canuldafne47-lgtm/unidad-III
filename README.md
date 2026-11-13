@@ -1,24 +1,4 @@
-$$
-    \begin{bmatrix}
-    1 \\
-    2 \\
-    3 \\
-    \end{bmatrix}
-    +
-    \left(
-    \begin{bmatrix}
-    4 & 1 & 2 \\
-    5 & 3 & 4\\
-    6 & 5 & 6\\
-    \end{bmatrix}
-    \cdot
-    \begin{bmatrix}
-    1 & 0 & 0 \\
-    0 & 1 & 0\\
-    0 & 0 & 1\\
-    \end{bmatrix}
-    \right)
-$$
+#Unidad 3
 
 ### 1) 
 $$

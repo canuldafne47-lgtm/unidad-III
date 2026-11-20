@@ -376,6 +376,8 @@ $$
     \end{bmatrix}
 $$
 
+## Determinates 
+
 ---
 13)
 $$ \begin{vmatrix} 3 & -4 & -1 \ -1 & 2 & 2 \ -3 & -1 & 2 \ \hline 3 & -4 & -1 \ -1 & 2 & 2 \end{vmatrix} $$

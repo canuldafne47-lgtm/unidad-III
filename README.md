@@ -381,10 +381,6 @@ $$
 ---
 Determinantes de las matrices 13-36
 
----
-
-## Parte I: Determinantes $3 \times 3$ (Método de Sarrus, ejercicios 13-28)
-
 ### 13)
 
 $$
@@ -722,8 +718,6 @@ $$
 $$
 
 ---
-
-## Parte II: Determinantes $5 \times 5$ (Método de Cofactores, ejercicios 29-36)
 
 ### 29)
 
